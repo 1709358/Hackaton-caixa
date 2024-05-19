@@ -1,0 +1,3 @@
+Llista de dades ordenada desde origen fins desti
+['Argentera ', 'Pratdip ', 'Duesaigües ', 'Colldejou ', 'Febró ', 'Nou de Gaià ', 'Arbolí ', 'Botarell ', 'Renau ', 'Catllar ', 'Capafonts ', 'Pobla de Mafumet ', 'Riudecanyes ', 'Vilaplana ', 'Maspujols ', 'L’Albiol ', 'Secuita ', 'Riera de Gaià ', 'Perafort ', 'Almoster ', 'Aleixar ', "Vilanova d'Escornalbou ", 'Alforja ', 'Riudecols ']
+Cost trayecta: 109598

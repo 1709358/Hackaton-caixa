@@ -1,0 +1,3 @@
+Llista de dades ordenada desde origen fins desti
+['Mollet de Peralada ', 'Masarac ', 'Siurana ', 'Fortià ', 'Vilamaniscle ', 'Vilamacolum ', 'Pedret i Marzà ', 'Sant Miquel de Fluvià ', 'Palau de Santa Eulàlia ', "Far d'Empordà ", 'Selva de Mar ', 'Espolla ', 'Vilaür ', 'Vilamalla ', 'Rabós ', 'Vilafant ', 'Riumors ', 'Pontós ', "Santa Llogaia d'Àlguema ", 'Ordis ', 'Torroella de Fluvià ', 'Garrigàs ', 'Pau ', 'Avinyonet de Puigventós ', 'Borrassà ', 'Cabanes ']
+Cost trayecta: 115146

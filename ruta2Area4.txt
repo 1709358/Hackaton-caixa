@@ -1,0 +1,3 @@
+Llista de dades ordenada desde origen fins desti
+['Sant Miquel de Campmajor ', 'Crespià ', 'Viladasens ', 'Aiguaviva ', 'Sant Andreu Salou ', 'Brunyola i Sant Martí Sapresa ', 'Camós ', 'Llambilles ', 'Madremanya ', 'Juià ', 'Sant Martí de Llémena ', 'Sant Joan de Mollet ', 'Vilademuls ', 'Sant Martí Vell ', 'Sant Feliu de Buixalleu ', 'Osor ', 'Esponellà ', 'Massanes ', 'Palol de Revardit ', 'Fontcoberta ', 'Fogars de la Selva ', 'Cervià de Ter ', "Canet d'Adri ", 'Campllong ']
+Cost trayecta: 113148

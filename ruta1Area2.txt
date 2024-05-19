@@ -1,0 +1,3 @@
+Llista de dades ordenada desde origen fins desti
+['Torrelavit ', 'Pacs del Penedès ', 'Pontons ', 'Olesa de Bonesvalls ', "Sant Llorenç d'Hortons ", 'Sant Cugat Sesgarrigues ', 'Montmell ', 'Santa Fe del Penedès ', 'Masllorenç ', 'Torrelles de Foix ', 'Subirats ', 'Cabanyes ', 'Olivella ', 'Puigdàlber ', 'Vilobí del Penedès ', 'Salomó ', 'Bonastre ', 'Albinyana ', 'Santa Oliva ', 'Mediona ', 'Font-rubí ', 'Castellet i la Gornal ']
+Cost trayecta: 107726

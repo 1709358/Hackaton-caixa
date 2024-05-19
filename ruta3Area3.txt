@@ -1,0 +1,3 @@
+Llista de dades ordenada desde origen fins desti
+['Sant Agustí de Lluçanès ', 'Orís ', 'Santa Maria de Besora ', "Sant Sadurní d'Osormort ", 'Sora ', 'Masies de Voltregà ', 'Espinelves ', 'Vilanova de Sau ', 'Tavertet ', 'Sant Boi de Lluçanès ', 'Santa Cecília de Voltregà ', 'Muntanyola ', 'Sant Vicenç de Torelló ', 'Sant Bartomeu del Grau ', 'Tavèrnoles ', 'Montesquiu ', 'Masies de Roda ', 'Santa Eulàlia de Riuprimer ', 'Folgueroles ', 'El Brull ', 'Sant Martí de Centelles ', 'Malla ', 'Santa Eugènia de Berga ', 'Rupit i Pruit ']
+Cost trayecta: 105718

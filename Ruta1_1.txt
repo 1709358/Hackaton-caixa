@@ -1,0 +1,114 @@
+Argençola,8008,1,216,1800 
+Bellprat,8021,1,74,1800 
+Bruc,8025,1,2,218,3600 
+Cabrera d'Anoia,8028,1,1,606,3600 
+Calonge de Segarra,8036,1,195,1800 
+Carme,8048,1,754,3600 
+Castellfollit de Riubregós,8060,1,159,1800 
+Castellolí,8063,1,636,3600
+Copons,8071,1,333,3600
+Jorba,8103,1,806,3600
+Llacuna,8104,1,942,3600
+Montmaneu,8133,1,166,1800
+Orpí,8152,1,159,1800
+Prats de Rei,8170,1,554,3600
+Pujalt,8176,1,204,1800
+Rubió,8185,1,244,1800
+Sant Pere Sallavinera,8189,1,167,3600
+Sant Martí Sesgueioles,8228,1,361,1800
+Santa Maria de Miralles,8257,1,138,1800
+Torre de Claramunt,8286,1,3,966,3600
+Vallbona d'Anoia,8292,1,1,387,3600
+Veciana,8297,1,182,1800
+Conesa,43046,1,109,1800
+Forès,43061,1,48,1800
+Llorac,43073,1,96,1800
+Passanant i Belltall,43101,1,170,1800
+Les Piles,43428,1,224,1800
+Rocafort de Queralt,43130,1,241,1800
+Savallà del Comtat,43143,1,52,1800
+Vallfogona de Riucorb,43159,1,89,1800
+Cabanyes,8794,2,999,3600
+Castellet i la Gornal,8058,2,2,474,3600
+Font-rubí,8085,2,1,446,3600
+Mediona,8122,2,2,517,3600
+Olesa de Bonesvalls,8146,2,2,016,3600
+Pacs del Penedès,8154,2,935,3600
+Pontons,8168,2,507,3600
+Puigdàlber,8174,2,555,3600
+Sant Cugat Sesgarrigues,8206,2,1,009,3600
+Sant Llorenç d'Hortons,8222,2,2,503,3600
+Santa Fe del Penedès,8249,2,370,3600
+Subirats,8273,2,3,241,3600
+Torrelavit,8287,2,1,457,3600
+Torrelles de Foix,8288,2,2,557,3600
+Vilobí del Penedès,8304,2,1,130,3600
+Albinyana,43002,2,2,581,3600
+Bonastre,43030,2,742,3600
+Masllorenç,43079,2,547,3600
+Montmell,43090,2,1,863,3600
+Santa Oliva,43140,2,3,560,3600
+Olivella,8148,2,4,339,3600
+Salomó,43135,2,543,3600
+Vespella de Gaià,43164,2,496,3600
+Aiguamúrcia,43001,3,961,3600
+Alió,43010,3,496,3600
+Bràfim,43034,3,687,3600
+Cabra del Camp,43036,3,1,254,3600
+Figuerola del Camp,43059,3,332,3600
+Garidells,43066,3,196,1800
+Masó,43080,3,285,3600
+El Milà,43143,3,189,1800
+Montferri,43089,3,419,3600
+Mont-ral,43091,3,173,1800
+Nulles,43098,3,541,3600
+Puigpelat,43119,3,1,199,3600
+Querol,43120,3,572,3600
+La Riba,43450,3,552,3600
+Rodonyà,43132,3,506,3600
+Rourell,43134,3,395,3600
+Vallmoll,43160,3,1,882,3600
+Vilabella,43165,3,711,3600
+Blancafort,43029,3,394,3600
+Pira,43107,3,489,3600
+Pontils,43141,3,133,1800
+Senan,43146,3,44,1800
+Vallclara,43158,3,88,1800
+Vilanova de Prades,43168,3,107,1800
+Vilaverd,43172,3,453,3600
+L’Albiol,43479,4,528,3600
+Aleixar,43007,4,924,3600
+Alforja,43009,4,1,928,3600
+Almoster,43011,4,1,334,3600
+Arbolí,43015,4,122,1800
+Argentera,43017,4,126,1800
+Botarell,43033,4,1,102,3600
+Capafonts,43039,4,121,1800
+Colldejou,43045,4,172,1800
+Duesaigües,43053,4,232,1800
+Febró,43057,4,39,1800
+Maspujols,43081,4,859,3600
+Pratdip,43118,4,693,3600
+Riudecanyes,43127,4,1,279,3600
+Riudecols,43128,4,1,198,3600
+Vilanova d'Escornalbou,43167,4,594,3600
+Vilaplana,43169,4,540,3600
+Catllar,43043,4,4,921,3600
+Nou de Gaià,43097,4,636,3600
+Perafort,43103,4,1,292,3600
+Pobla de Mafumet,43109,4,4,052,3600
+Renau,43122,4,152,1800
+Riera de Gaià,43126,4,1,752,3600
+Secuita,43144,4,1,765,3600
+Vilallonga del Camp,43166,4,2,398,3600"
+
+
+
+
+
+
+
+
+
+
+

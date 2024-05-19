@@ -1,0 +1,3 @@
+Llista de dades ordenada desde origen fins desti
+['Garidells ', 'Querol ', 'Mont-ral ', 'Montferri ', 'Senan ', 'Vilabella ', 'Vilanova de Prades ', 'Vallclara ', 'Pontils ', 'El Milà ', 'Masó ', 'Figuerola del Camp ', 'Blancafort ', 'Nulles ', 'La Riba ', 'Vallmoll ', 'Puigpelat ', 'Aiguamúrcia ', 'Pira ', 'Cabra del Camp ', 'Alió ', 'Rourell ', 'Bràfim ', 'Rodonyà ']
+Cost trayecta: 110294

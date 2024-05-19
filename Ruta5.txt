@@ -1,0 +1,105 @@
+Castellfollit del Boix,8059,1,460,3600
+Castellgalí,8061,1,2236,3600
+Mura,8139,1,232,1800
+Marganell,8242,1,282,3600
+Talamanca,8277,1,219,1800
+Castellví de Rosanes,8066,1,2096,3600
+Collbató,8069,1,4726,3600
+Òrrius,8153,1,793,3600
+Gallifa,8087,1,186,1800
+Rellinars,8179,1,915,3600
+Sant Llorenç Savall,8223,1,2524,3600
+Ullastrell,8290,1,2139,3600
+Campins,8039,1,557,3600
+Cànoves i Samalús,8042,1,3289,3600
+Fogars de Montclús,8081,1,493,3600
+Gualba,8097,1,1610,3600
+Figaró-Montmany,8134,1,1108,3600
+Montseny,8137,1,370,3600
+Sant Esteve de Palautordera,8207,1,3043,3600
+Sant Pere de Vilamajor,8234,1,4815,3600
+Santa Maria de Martorelles,8256,1,889,3600
+Tagamanent,8276,1,340,3600
+Vallgorguina,8294,1,3144,3600
+Vilalba Sasserra,8306,1,748,3600
+Aguilar de Segarra,8002,2,287,3600
+Castellnou de Bages,8062,2,1431,3600
+Fonollosa,8084,2,1546,3600
+Gaià,8090,2,179,1800
+Rajadell,8178,2,545,3600
+Sant Feliu Sasserra,8212,2,611,3600
+Sant Mateu de Bages,8229,2,628,3600
+Olvan,8144,2,876,3600
+Sagàs,8188,2,157,1800
+Santa Maria de Merlès,8255,2,184,1800
+Viver i Serrateix,8308,2,166,1800
+Alpens,8004,2,281,3600
+Lluçà,8109,2,279,3600
+Olost,8149,2,1206,3600
+Oristà,8151,2,573,3600
+Perafita,8160,2,418,3600
+Sant Martí d'Albars,8225,2,119,1800
+Sobremunt,8271,2,83,1800
+Calders,8034,2,1101,3600
+Castellcir,8055,2,778,3600
+Collsuspina,8070,2,398,3600
+Estany,8079,2,391,3600
+Granera,8095,2,80,1800
+Monistrol de Calders,8128,2,742,3600
+Sant Quirze Safaja,8239,2,672,3600
+El Brull,8559,3,278,3600
+Folgueroles,8083,3,2254,3600
+Gurb,8100,3,2702,3600
+Malla,8111,3,272,3600
+Masies de Roda,8116,3,733,3600
+Masies de Voltregà,8117,3,3133,3600
+Muntanyola,8129,3,700,3600
+Montesquiu,8131,3,1059,3600
+Orís,8573,3,347,3600
+Sant Agustí de Lluçanès,8195,3,100,1800
+Sant Bartomeu del Grau,8199,3,924,3600
+Sant Boi de Lluçanès,8201,3,575,3600
+Sant Martí de Centelles,8224,3,1232,3600
+Sant Sadurní d'Osormort,8241,3,90,1800
+Santa Cecília de Voltregà,8243,3,185,1800
+Santa Eugènia de Berga,8246,3,2256,3600
+Santa Eulàlia de Riuprimer,8247,3,1401,3600
+Santa Maria de Besora,8253,3,159,1800
+Sant Vicenç de Torelló,8265,3,2077,3600
+Sora,8272,3,219,1800
+Tavèrnoles,8275,3,329,3600
+Tavertet,8280,3,116,1800
+Vilanova de Sau,8303,3,320,3600
+Rupit i Pruit,8901,3,279,3600
+Espinelves,17063,3,248,1800
+Vidrà,17212,3,181,1800
+Borredà,8024,4,448,3600
+Capolat,8045,4,89,1800
+Castellar del Riu,8050,4,175,1800
+Castellar de n'Hug,8052,4,176,1800
+Castell de l'Areny,8057,4,69,1800
+Espunyola,8078,4,265,3600
+Fígols,8080,4,45,1800
+Gisclareny,8093,4,28,1800
+Montclar,8130,4,136,1800
+Nou de Berguedà,8142,4,179,1800
+Quar,8177,4,47,1800
+Saldes,8190,4,298,3600
+Sant Jaume de Frontanyà,8216,4,31,1800
+Vallcebre,8293,4,268,3600
+Vilada,8299,4,439,3600
+Sant Julià de Cerdanyola,8903,4,241,1800
+Gósol,25100,4,233,1800
+Campelles,17037,4,162,1800
+Queralbs,17043,4,191,1800
+Gombrèn,17080,4,200,1800
+Llanars,17091,4,533,3600
+Llosses,17096,4,205,1800
+Molló,17107,4,365,3600
+Ogassa,17112,4,222,1800
+Pardines,17125,4,165,1800
+Planoles,17134,4,307,3600
+Vallfogona de Ripollès,17170,4,222,1800
+Setcases,17192,4,200,1800
+Toses,17201,4,185,1800
+Vilallonga de Ter,17224,4,410,3600

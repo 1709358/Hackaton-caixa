@@ -1,0 +1,3 @@
+Llista de dades ordenada desde origen fins desti
+['Colomers ', 'Palau-sator ', 'Garrigoles ', 'Fontanilles ', 'Serra de Daró ', 'Parlavà ', 'Sant Mori ', 'Jafre ', 'Ultramort ', 'Foixà ', 'Vilopriu ', 'Ullastret ', 'Torrent, Poble ', 'Albons ', 'Corçà ', "Bellcaire d'Empordà ", "Tallada d'Empordà ", 'Gualta ', 'Vall-llobrega ', "Cruïlles, Monells i Sant Sadurní de l'Heura ", 'La Pera ', 'Ullà ', 'Rupià ', 'Regencós ', 'Viladamat ', 'Ventalló ']
+Cost trayecta: 117842

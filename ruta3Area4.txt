@@ -1,0 +1,3 @@
+Llista de dades ordenada desde origen fins desti
+['Sant Jaume de Frontanyà ', 'Espunyola ', 'Toses ', 'Pardines ', 'Fígols ', "Castell de l'Areny ", 'Nou de Berguedà ', 'Montclar ', 'Queralbs ', 'Quar ', 'Campelles ', 'Vallcebre ', 'Setcases ', 'Molló ', 'Ogassa ', 'Planoles ', 'Gisclareny ', 'Llanars ', 'Llosses ', 'Saldes ', 'Capolat ', 'Borredà ', 'Gósol ', 'Vilada ', 'Gombrèn ', "Castellar de n'Hug ", 'Sant Julià de Cerdanyola ', 'Vallfogona de Ripollès ']
+Cost trayecta: 101529

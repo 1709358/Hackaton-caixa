@@ -1,0 +1,3 @@
+Llista de dades ordenada desde origen fins desti
+['Orpí ', 'Carme ', 'Savallà del Comtat ', 'Llorac ', 'Castellfollit de Riubregós ', 'Calonge de Segarra ', 'Santa Maria de Miralles ', 'Llacuna ', 'Sant Martí Sesgueioles ', 'Prats de Rei ', 'Rocafort de Queralt ', 'Conesa ', 'Forès ', 'Passanant i Belltall ', 'Rubió ', 'Copons ', 'Montmaneu ', 'Argençola ', 'Veciana ', 'Jorba ', 'Pujalt ', 'Sant Pere Sallavinera ', 'Bellprat ', 'Les Piles ', "Vallbona d'Anoia ", 'Castellolí ', 'Torre de Claramunt ', "Cabrera d'Anoia "]
+Cost trayecta: 103831

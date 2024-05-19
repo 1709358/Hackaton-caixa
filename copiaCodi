@@ -1,0 +1,56 @@
+import openpyxl 
+import sys 
+
+matrix = open("/home/andreu/universitat/hackAton/ferKruskal/matriuRuta1.txt")
+matrixInteger = []
+for i in matrix:
+    listToset = []
+    for j in i.split(sep=' '):
+        listToset.append(int(j))
+    matrixInteger.append(listToset)
+
+matrixValues = []
+begin = 55
+end = 79 + 1
+lenghData = end - begin
+
+for i in range(lenghData):
+    lista = []
+    for j in range(lenghData):
+        lista.append(matrixInteger[i][j])
+    matrixValues.append(lista)
+posicionVisitades = []
+
+wb = openpyxl.load_workbook('/home/andreu/universitat/hackAton/ferKruskal/Datos.xlsx')
+ws = wb['Hoja1']
+costesEsrtar = [ws.cell(row=i,column=5).value for i in range(begin,end+1)]
+cami=[]
+
+    
+    
+pivot = 0
+posicionVisitades.append(0)
+listaPivots = [pivot]
+costCami = []
+for i in range(lenghData - 1):
+    cost_minim=sys.maxsize 
+    pos_minim_origen = sys.maxsize 
+    pos_minim_desti = sys.maxsize 
+    for element,pos in zip(matrixValues[pivot],range(len(matrixValues))):
+        if (pos not in listaPivots):
+            if (cost_minim > element + costesEsrtar[pos]) and element!=0:
+                cost_minim = element + costesEsrtar[pos]
+                pos_minim_desti = pos
+    
+    costCami.append(element + costesEsrtar[pos])
+    listaPivots.append(pos_minim_desti)
+    cami.append([pivot,pos_minim_desti])
+    pivot = pos_minim_desti
+
+
+value = 0
+for i in costCami:
+    value+=i
+
+print(value)
+#print(costCami)

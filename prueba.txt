@@ -1,0 +1,7 @@
+Argençola 8008 1 216 1800 
+Bellprat,8021,1,74,1800 
+Bruc,8025,1,2,218,3600 
+Cabrera d'Anoia,8028,1,1,606,3600 
+Calonge de Segarra,8036,1,195,1800 
+Carme,8048,1,754,3600 
+Castellfollit de Riubregós,8060,1,159,1800 

@@ -1,0 +1,105 @@
+Far d'Empordà,17005,1,625,3600
+Avinyonet de Puigventós,17012,1,1676,3600
+Borrassà,17026,1,776,3600
+Cabanes,17030,1,949,3600
+Siurana,17052,1,178,1800
+Espolla,17064,1,408,3600
+Fortià,17074,1,778,3600
+Garrigàs,17075,1,458,3600
+Masarac,17100,1,294,3600
+Mollet de Peralada,17106,1,202,1800
+Ordis,17115,1,373,3600
+Palau de Santa Eulàlia 17119,1,115,1800
+Pau,17494,1,579,3600
+Pedret i Marzà,17129,1,181,1800
+Pontós,17136,1,274,3600
+Rabós,17143,1,210,1800
+Riumors,17151,1,244,1800
+Sant Miquel de Fluvià 17175,1,808,3600
+Santa Llogaia d'Àlguema,17182,1,379,3600
+Selva de Mar,17188,1,220,1800
+Torroella de Fluvià,17198,1,741,3600
+Vilafant,17221,1,5562,3600
+Vilaür,17222,1,162,1800
+Vilamacolum,17225,1,386,3600
+Vilamalla,17226,1,1166,3600
+Vilamaniscle,17227,1,204,1800
+Vila-sacra,17230,1,785,3600
+Albanyà,17003,2,180,1800
+Vajol,17014,2,87,1800
+Boadella i les Escaules 17029,2,258,3600
+Cabanelles,17031,2,279,3600
+Cantallops,17041,2,330,3600
+Capmany,17042,2,672,3600
+Cistella,17051,2,307,3600
+Lladó,17088,2,827,3600
+Navata,17111,2,1465,3600
+Pont de Molins,17135,2,542,3600
+Sant Llorenç de la Muga,17171,2,267,3600
+Terrades,17196,2,345,3600
+Vilanant,17228,2,401,3600
+Biure,17234,2,249,1800
+Argelaguer,17010,2,439,3600
+Beuda,17021,2,202,1800
+Maià de Montcal,17098,2,462,3600
+Mieres,17105,2,341,3600
+Montagut i Oix,17109,2,958,3600
+Riudaura,17149,2,511,3600
+Sales de Llierca,17154,2,169,1800
+Sant Ferriol 17162,2,256,3600
+Sant Jaume de Llierca 17165,2,842,3600
+Sant Aniol de Finestres 17183,2,363,3600
+Tortellà,17200,2,823,3600
+Vall de Bianya,17208,2,1345,3600
+Sant Mori 17176,3,159,1800
+Ventalló,17210,3,911,3600
+Viladamat,17217,3,479,3600
+Albons,17004,3,797,3600
+Bellcaire,d'Empordà,17018,3,713,3600
+Colomers,17055,3,204,1800
+Corçà,17057,3,1268,3600
+Foixà,17068,3,288,3600
+Fontanilles,17070,3,163,1800
+Garrigoles,17076,3,177,1800
+Gualta,17081,3,439,3600
+Jafre,17085,3,386,3600
+Palau-sator,17121,3,327,3600
+Parlavà,17126,3,415,3600
+La Pera 17120,3,438,3600
+Regencós,17144,3,271,3600
+Rupià,17153,3,300,3600
+Serra de Daró,17191,3,233,1800
+Tallada,d'Empordà,17195,3,480,3600
+Torrent  Poble,17123,3,166,1800
+Ultramort,17203,3,224,1800
+Ullà,17140,3,1195,3600
+Ullastret,17205,3,250,3600
+Vall-llobrega,17209,3,926,3600
+Vilopriu,17232,3,223,1800
+Cruïlles  Monells i Sant Sadurní de,l'Heura,17901,3,1338,3600
+Forallac,17902,3,1765,3600
+Aiguaviva,17002,4,780,3600
+Campllong,17038,4,535,3600
+Canet,d'Adri,17040,4,750,3600
+Cervià de Ter,17050,4,999,3600
+Juià,17087,4,334,3600
+Llambilles,17090,4,731,3600
+Madremanya,17097,4,302,3600
+Sant Andreu Salou,17157,4,162,1800
+Sant Joan de Mollet 17168,4,515,3600
+Sant Martí de Llémena 17172,4,679,3600
+Sant Martí Vell,17173,4,261,3600
+Viladasens,17216,4,216,1800
+Camós,17035,4,715,3600
+Crespià,17058,4,276,3600
+Esponellà,17065,4,489,3600
+Fontcoberta,17071,4,1466,3600
+Palol de Revardit,17123,4,457,3600
+Sant Miquel de Campmajor 17174,4,239,1800
+Vilademuls,17218,4,840,3600
+Fogars de la Selva 8082,4,1564,3600
+Brunyola i Sant Martí Sapresa,17028,4,388,3600
+Massanes,17101,4,825,3600
+Osor,17116,4,423,3600
+Sant Feliu de Buixalleu 17159,4,839,3600
+Susqueda,17194,4,96,1800

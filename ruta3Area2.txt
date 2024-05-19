@@ -1,0 +1,3 @@
+Llista de dades ordenada desde origen fins desti
+['Santa Maria de Merlès ', 'Sagàs ', 'Viver i Serrateix ', 'Calders ', 'Sobremunt ', 'Olost ', 'Granera ', 'Monistrol de Calders ', 'Gaià ', 'Collsuspina ', "Sant Martí d'Albars ", 'Sant Mateu de Bages ', 'Lluçà ', 'Sant Feliu Sasserra ', 'Alpens ', 'Aguilar de Segarra ', 'Oristà ', 'Estany ', 'Olvan ', 'Perafita ', 'Castellnou de Bages ', 'Castellcir ', 'Rajadell ', 'Fonollosa ']
+Cost trayecta: 110833

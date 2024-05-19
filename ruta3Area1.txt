@@ -1,0 +1,3 @@
+Llista de dades ordenada desde origen fins desti
+['Gallifa ', 'Rellinars ', 'Talamanca ', 'Collbató ', 'Campins ', 'Castellví de Rosanes ', 'Sant Esteve de Palautordera ', 'Sant Llorenç Savall ', 'Montseny ', 'Cànoves i Samalús ', 'Ullastrell ', 'Castellfollit del Boix ', 'Santa Maria de Martorelles ', 'Òrrius ', 'Fogars de Montclús ', 'Tagamanent ', 'Castellgalí ', 'Vallgorguina ', 'Figaró-Montmany ', 'Gualba ', 'Sant Pere de Vilamajor ', 'Marganell ']
+Cost trayecta: 101557
